@@ -9,6 +9,7 @@ namespace SpreadLayers.Application.Mapping
         public DomainToDTOMappingProfile()
         {
             CreateMap<Empresa, EmpresaDTO>().ReverseMap();
+
         }
     }
 }
