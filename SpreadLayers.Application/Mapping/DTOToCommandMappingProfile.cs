@@ -4,5 +4,6 @@ namespace SpreadLayers.Application.Mapping
 {
     public class DTOToCommandMappingProfile : Profile
     {
+
     }
 }
